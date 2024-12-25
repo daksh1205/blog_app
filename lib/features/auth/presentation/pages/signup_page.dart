@@ -86,7 +86,7 @@ class _SignUpPageState extends State<SignUpPage> {
                                   password: passwordController.text.trim(),
                                 ),
                               );
-                              debugPrint("Sign Up");
+                         
                         }
                       },
                     ),
